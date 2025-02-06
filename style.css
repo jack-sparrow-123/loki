@@ -11,7 +11,7 @@ body, html {
     width: 100%;
     height: 100%;
     position: relative;
-    background-image: url('file:///C:/Users/user/OneDrive/Documents/projects/antartica.jpg'); 
+    background-image: url('antartica.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
